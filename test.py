@@ -87,4 +87,4 @@ print(((2*error1_valid)/100)**(0.5))
 w_p1
 
 print(np.shape(w_p1))
-
+print("HI")
